@@ -1,0 +1,33 @@
+ 央视,#genre#
+CCTV1综合,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225812/.m3u8
+CCTV1综合,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227014/.m3u8
+CCTV1综合,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226908/.m3u8
+CCTV1综合,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225829/.m3u8
+CCTV1综合,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225800/.m3u8
+CCTV2财经,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226795/.m3u8
+CCTV2财经,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227243/.m3u8
+CCTV2财经,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225923/.m3u8
+CCTV3综艺,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227055/.m3u8
+CCTV3综艺,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227256/.m3u8
+CCTV4国际,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225802/.m3u8
+CCTV4国际,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227441/.m3u8
+CCTV4国际,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227225/.m3u8
+CCTV5体育,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227170/.m3u8
+CCTV5体育,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227229/.m3u8
+CCTV5+体育,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225939/.m3u8
+CCTV5+体育,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225821/.m3u8
+CCTV6电影,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227260/.m3u8
+CCTV6电影,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227137/.m3u8
+CCTV6电影,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227275/.m3u8
+CCTV7国际军事,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225927/.m3u8
+CCTV7国际军事,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225805/.m3u8
+CCTV8电视剧,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227266/.m3u8
+CCTV8电视剧,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227174/.m3u8
+CCTV9记录,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225929/.m3u8
+CCTV9记录,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225820/.m3u8
+CCTV10科教,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225931/.m3u8
+CCTV10科教,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225814/.m3u8
+CCTV11 戏曲,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227233/.m3u8
+CCTV11 戏曲,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225815/.m3u8
+CCTV12社会与法,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225932/.m3u8
+CCTV12社会与法,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225816/.m3u8
