@@ -94,6 +94,7 @@ CGTN 外语,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227224/.m3u8
 东方卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227059/.m3u8
 凤凰卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227222/.m3u8
 凤凰资讯台,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227226/.m3u8
+凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
 深圳卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225848/.m3u8
 深圳卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227242/.m3u8
 浙江卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225825/.m3u8
