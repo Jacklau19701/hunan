@@ -182,13 +182,6 @@ CGTN 外语,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227224/.m3u8
 东南卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227156/.m3u8
 龙岩综合,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227200/.m3u8
 平潭电视台,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227218/.m3u8
-贵州公共,http://api2.52tb.xyz/info?id=701&token=20230331czbpek
-贵州影视,http://api2.52tb.xyz/info?id=702&token=20230331czbpek
-贵州生活,http://api2.52tb.xyz/info?id=703&token=20230331czbpek
-贵州法治,http://api2.52tb.xyz/info?id=704&token=20230331czbpek
-贵州科教,http://api2.52tb.xyz/info?id=705&token=20230331czbpek
-贵州经济,http://api2.52tb.xyz/info?id=706&token=20230331czbpek
-贵州移动,http://api2.52tb.xyz/info?id=707&token=20230331czbpek
 浙江公共新闻,http://hw-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 浙江国际,http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
