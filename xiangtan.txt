@@ -692,7 +692,7 @@ CETV4教育,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227192/.m3u8
 凤凰资讯,https://qist.cc/live/sc.php?id=fhzx
 凤凰卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 澳门卫视,http://r.jdshipin.com/n2YZI
-澳门,http://61.244.22.5/ch1/ch1.live/index.m3u8
+奥世澳门,http://61.244.22.5/ch1/ch1.live/index.m3u8
 奥视卫星,http://61.244.22.5/ch3/ch3.live/index.m3u8
 奥门资讯,http://61.244.22.5/ch5/info_ch5.live/index.m3u8
 凹奥门体育,http://61.244.22.5/ch4/sport_ch4.live/index.m3u8
