@@ -77,6 +77,9 @@ CGTN 外语,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227224/.m3u8
 女性时尚,http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226969/index.m3u8
 卫生健康,https://cfyy.cc/ds/ysp/qp.php?id=wsjk
 中国交通,https://tv.lanjingfm.com/cctbn/hainan.m3u8
+纯享 4K,http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw4259108076_496521789/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
+纯享 4K,http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/ott.mobaibox.com/PLTV/4/224/3221228242/index.m3u8
+纯享 4K,http://[2409:8087:2001:20:2800:0:df6e:eb13]:80/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
 电视指南,http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
 电视指南,http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
 
@@ -179,6 +182,13 @@ CGTN 外语,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227224/.m3u8
 东南卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227156/.m3u8
 龙岩综合,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227200/.m3u8
 平潭电视台,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227218/.m3u8
+贵州公共,http://api2.52tb.xyz/info?id=701&token=20230331czbpek
+贵州影视,http://api2.52tb.xyz/info?id=702&token=20230331czbpek
+贵州生活,http://api2.52tb.xyz/info?id=703&token=20230331czbpek
+贵州法治,http://api2.52tb.xyz/info?id=704&token=20230331czbpek
+贵州科教,http://api2.52tb.xyz/info?id=705&token=20230331czbpek
+贵州经济,http://api2.52tb.xyz/info?id=706&token=20230331czbpek
+贵州移动,http://api2.52tb.xyz/info?id=707&token=20230331czbpek
 浙江公共新闻,http://hw-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 浙江国际,http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
@@ -317,7 +327,7 @@ CGTN 外语,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227224/.m3u8
 埋堆堆18,https://live.metshop.top/huya/23734169
 埋堆堆19,https://live.metshop.top/huya/23728674
 
-剧场1,#genre#
+剧场,#genre#
 邵氏老电影,https://tv.iill.top/douyu/4246519
 潮妈辣婆,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226107/.m3u8
 塑性美体,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227314/.m3u8
