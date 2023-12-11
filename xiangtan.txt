@@ -196,17 +196,6 @@ CGTN 外语,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227224/.m3u8
 海南文旅,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000322/index.m3u8?fmmv6
 海南公共,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000382/index.m3u8?fmmv6
 海南自贸,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000320/index.m3u8?fmmv6
-江苏卫视超清,http://223.110.241.139:6610/gitv/live1/G_JIANGSU-CQ/G_JIANGSU-CQ/
-江苏教育,http://223.110.241.139:6610/gitv/live1/G_JSJY/G_JSJY/
-江苏城市,http://223.110.241.139:6610/gitv/live1/G_JSCS/G_JSCS/
-江苏公共,http://223.110.241.139:6610/gitv/live1/G_JSGG/G_JSGG/
-江苏影视,http://223.110.241.139:6610/gitv/live1/G_JSYS/G_JSYS/
-江苏休闲体育,http://223.110.241.139:6610/gitv/live1/G_JSTY/G_JSTY/
-江苏综艺,http://223.110.241.139:6610/gitv/live1/G_JSZY/G_JSZY/
-好享购,http://223.110.241.139:6610/gitv/live1/G_HAOXIANG/G_HAOXIANG/
-南京新闻综合,http://223.110.241.139:6610/gitv/live1/G_NJXW/G_NJXW/
-南京科教,http://223.110.241.139:6610/gitv/live1/G_NJJK/G_NJJK/
-南京十八,http://223.110.241.139:6610/gitv/live1/G_NJSB/G_NJSB/
 
 电影,#genre#
 电影_星爷,https://live.metshop.top/huya/11342412
