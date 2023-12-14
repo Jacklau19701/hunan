@@ -161,7 +161,7 @@ CGTN 外语,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227224/.m3u8
 
 地方台,#genre#
 荆州陇上频道,http://jingzhou-live21.cjyun.org/10085/s10085-jingzhou-tv03.m3u8?auth_key=1704038399-0-0-a0b56187fea04cf4f776c0b23cf5f547
-镇远台,http://play.cxsm.com/ZYTVPLAY/ZYTVPLAY.m3u8?auth_key=1753796321-0-0-7949a8638a074fa91f844d198240dfcc
+镇远台,https://play.cxsm.com/ZYTVPLAY/ZYTVPLAY.m3u8?auth_key=1753796321-0-0-7949a8638a074fa91f844d198240dfcc
 厦门1台,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226814/.m3u8
 厦门1台,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227185/.m3u8
 厦门2台,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226777/.m3u8
