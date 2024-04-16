@@ -122,6 +122,9 @@ CGTN法国,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227220/.m3u8
 兵团卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227168/.m3u8
 内蒙古卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227244/.m3u8
 内蒙古卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225846/.m3u8
+凤凰卫视,http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
+凤凰资讯,http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
+凤凰资讯,http://113.64.145.91:8081/hls/36/index.m3u8
 
 福建地方台,#genre#
 厦门一台,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226814/.m3u8
