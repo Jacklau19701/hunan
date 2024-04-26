@@ -120,11 +120,13 @@ CGTN法国,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227220/.m3u8
 兵团卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227168/.m3u8
 内蒙古卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227244/.m3u8
 内蒙古卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225846/.m3u8
-凤凰卫视,http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
-凤凰资讯,http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
-凤凰资讯,http://113.64.145.91:8081/hls/36/index.m3u8
+凤凰卫视,http://183.204.13.237/cee7354084e908e7d71a99f88ecd0c61.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
+凤凰卫视,https://edge2.laotv.la/live/PhxChinese/index.m3u8
+凤凰资讯,http://183.204.13.237/cee7354084e908e7d71a99f88ecd0c61.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
+凤凰资讯,https://edge1.laotv.la/live/PhoenixNews/index.m3u8
 
 福建地方台,#genre#
+荆州陇上,http://jingzhou-live21.cjyun.org/10085/s10085-jingzhou-tv03.m3u8?auth_key=1735660799-0-0-73625822ff2c77aefa1589e94281edad
 厦门一台,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226814/.m3u8
 厦门二台,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226777/.m3u8
 厦门三台,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226760/.m3u8
@@ -140,7 +142,6 @@ CGTN法国,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227220/.m3u8
 福建少儿,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227194/.m3u8
 延边卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227330/.m3u8
 咪咕视频,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227158/.m3u8
-
 
 教卡,#genre#
 CETV1教育,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225869/.m3u8
@@ -161,8 +162,6 @@ CETV4教育,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227192/.m3u8
 嘉佳卡通,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001227/index.m3u8
 黑莓动画,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225878/.m3u8
 
-
-
 剧场,#genre#
 潮妈辣婆,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226107/.m3u8
 形体训练,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227314/.m3u8
@@ -170,9 +169,9 @@ CETV4教育,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227192/.m3u8
 CHC高清,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43063/index.m3u8
 CHC高清,http://nas.tuyuannet.cn:8800/rtp/239.37.0.187:5540
 CHC高清,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
-CHC动作,http://221.15.7.42:8888/rtp/225.1.4.208:1261
+CHC动作,http://115.60.241.249:2000/rtp/225.1.4.208:1261
 CHC动作,http://nas.tuyuannet.cn:8800/rtp/239.37.0.186:5540
-CHC家庭,http://36.46.99.145:8008/rtp/239.112.205.205:5140
+CHC家庭,http://113.138.135.67:8001/rtp/239.112.205.206:5140
 CHC家庭,https://epg.pw/stream/085a38ada3bf036f74dc58987291160253095044bdff40a127b5578345656db0.ctv
 CHC家庭,http://59.44.192.82:65000/hls/30/index.m3u8
 古装剧场,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225880/.m3u8
@@ -201,7 +200,6 @@ CHC家庭,http://59.44.192.82:65000/hls/30/index.m3u8
 人文记实,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227213/.m3u8
 金鹰记实,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226937/.m3u8
 
-
 综艺,#genre#
 4K超期,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/.m3u8
 金牌综艺,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225884/.m3u8
@@ -217,21 +215,3 @@ CHC家庭,http://59.44.192.82:65000/hls/30/index.m3u8
 棋牌直播,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225883/.m3u8
 游戏直播,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225894/.m3u8
 电竞游戏,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227252/.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
