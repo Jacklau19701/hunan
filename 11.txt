@@ -188,6 +188,9 @@ CHC家庭,http://59.44.192.82:65000/hls/30/index.m3u8
 东北热剧,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
 军事评论,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225890/.m3u8
 黑莓电影,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225891/.m3u8
+超级体育,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
+超级电影,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
+超级视剧,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
 电视剧,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225893/.m3u8
 中国功夫,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225896/.m3u8
 古装电影,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225893/.m3u8
