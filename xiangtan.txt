@@ -255,7 +255,7 @@ CHC家庭,http://59.44.192.82:65000/hls/30/index.m3u8
 电影_死神来了,https://live.metshop.top/huya/11352903
 电影_怪兽系列,https://live.metshop.top/huya/21059554
 
-埋堆堆,#gener#
+埋堆堆,#genre#
 埋堆堆1,https://tv.iill.top/huya/23740156
 埋堆堆2,https://tv.iill.top/huya/23749096
 埋堆堆3,https://tv.iill.top/huya/23735126
