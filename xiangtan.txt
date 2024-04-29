@@ -156,8 +156,8 @@ CGTN法国,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227220/.m3u8
 CHC高清,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43063/index.m3u8
 CHC高清,http://nas.tuyuannet.cn:8800/rtp/239.37.0.187:5540
 CHC高清,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
-CHC动作,http://nas.tuyuannet.cn:8800/rtp/239.37.0.186:5540
 CHC动作,http://115.60.241.249:2000/rtp/225.1.4.208:1261
+CHC动作,http://nas.tuyuannet.cn:8800/rtp/239.37.0.186:5540
 CHC家庭,http://nas.tuyuannet.cn:8800/rtp/239.37.0.188:5540
 CHC家庭,https://epg.pw/stream/085a38ada3bf036f74dc58987291160253095044bdff40a127b5578345656db0.ctv
 CHC家庭,http://59.44.192.82:65000/hls/30/index.m3u8
