@@ -165,9 +165,12 @@ CETV4教育,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227192/.m3u8
 潮妈辣婆,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226107/.m3u8
 形体训练,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227314/.m3u8
 动作电影,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225879/.m3u8
-CHC高清, http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?m3u8_level=2
-CHC动作, http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?m3u8_level=2
-CHC家庭, http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?m3u8_level=2
+CHC影迷电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?m3u8_level=2
+CHC影迷电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?m3u8_level=2
+CHC动作电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?m3u8_level=2
+CHC动作电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?m3u8_level=2
+CHC家庭影院, http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?m3u8_level=2
+CHC家庭影院,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?m3u8_level=2
 古装剧场,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225880/.m3u8
 欢笑剧场,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227145/.m3u8
 爱情喜剧,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225877/.m3u8
