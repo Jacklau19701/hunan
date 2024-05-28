@@ -122,10 +122,9 @@ CGTN法国,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227220/.m3u8
 兵团卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227168/.m3u8
 内蒙古卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227244/.m3u8
 内蒙古卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225846/.m3u8
-凤凰卫视,http://183.204.13.237/cee7354084e908e7d71a99f88ecd0c61.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
-凤凰卫视,https://edge2.laotv.la/live/PhxChinese/index.m3u8
-凤凰资讯,http://183.204.13.237/cee7354084e908e7d71a99f88ecd0c61.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
-凤凰资讯,https://edge1.laotv.la/live/PhoenixNews/index.m3u8
+凤凰卫视,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
+凤凰资讯,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
+凤凰香港,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
 
 福建地方台,#genre#
 荆州垄上,http://jingzhou-live21.cjyun.org/10085/s10085-jingzhou-tv03.m3u8?auth_key=1735660799-0-0-73625822ff2c77aefa1589e94281edad
