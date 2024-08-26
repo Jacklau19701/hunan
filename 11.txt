@@ -167,12 +167,16 @@ CETV4教育,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227192/.m3u8
 动作电影,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225879/.m3u8
 CHC影迷电影,http://119.165.136.194:6666/udp/239.253.254.154:8000
 CHC影迷电影,http://61.162.52.6:8088/newlive/live/hls/62/live.m3u8
+CHC影迷电影,http://171.116.181.191:8084/rtp/226.0.2.93:8004
 CHC动作电影,http://iptviptv.site:9694/hls/701/index.m3u8
 CHC动作电影,http://119.165.136.194:6666/udp/239.253.254.153:8000
 CHC动作电影,http://123.189.36.155:9901/tsfile/live/1101_1.m3u8
 CHC动作电影,http://123.189.36.7:9901/tsfile/live/1101_1.m3u8
 CHC家庭影院,http://119.165.136.194:6666/udp/239.253.254.152:8000
 CHC家庭影院,//183.189.213.105:8000/rtp/226.0.2.93:8004
+CHC家庭影院,http://171.116.181.191:8084/rtp/226.0.2.240:9820
+CHC家庭影院,http://118.81.226.58:8084/rtp/226.0.2.240:9820
+CHC家庭影院,http://183.185.220.49:8084/rtp/226.0.2.240:9820
 CHC家庭影院,http://iptviptv.site:9694/hls/700/index.m3u8
 CHC家庭影院,http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8
 古装剧场,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225880/.m3u8
