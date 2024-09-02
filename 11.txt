@@ -138,9 +138,6 @@ CGTN法国,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227220/.m3u8
 福建少儿,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227194/.m3u8
 延边卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227330/.m3u8
 咪咕视频,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227158/.m3u8
-凤凰卫视,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
-凤凰资讯,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
-凤凰香港,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
 
 教卡,#genre#
 CETV1教育,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225869/.m3u8
@@ -165,15 +162,9 @@ CETV4教育,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227192/.m3u8
 潮妈辣婆,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226107/.m3u8
 形体训练,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227314/.m3u8
 动作电影,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225879/.m3u8
-CHC影迷电影,http://119.165.136.194:6666/udp/239.253.254.154:8000
-CHC影迷电影,http://video.qd.sdu.edu.cn/liverespath/bca6167afdef7fc773405c38e695b342c1d1eca0/index.m3u8
+CHC影迷电影,http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/chcgqdyHD/__op/default/__f/index.m3u8
 CHC影迷电影,http://61.162.52.6:8088/newlive/live/hls/62/live.m3u8
 CHC影迷电影,http://171.116.181.191:8084/rtp/226.0.2.93:8004
-CHC影迷电影,http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/chcgqdyHD/__op/default/__f/index.m3u8
-CHC动作电影,http://iptviptv.site:9694/hls/701/index.m3u8
-CHC动作电影,http://119.165.136.194:6666/udp/239.253.254.153:8000
-CHC动作电影,http://123.189.36.155:9901/tsfile/live/1101_1.m3u8
-CHC动作电影,http://123.189.36.7:9901/tsfile/live/1101_1.m3u8
 CHC动作电影,http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/chcdzdyHD/__op/default/__f/index.m3u8
 CHC家庭影院,http://iptviptv.site:9694/hls/700/index.m3u8
 CHC家庭影院,http://video.qd.sdu.edu.cn/liverespath/449d51febadb152094085d373b9af94a6ac5f1dd/index.m3u8
