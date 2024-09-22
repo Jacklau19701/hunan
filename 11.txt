@@ -162,8 +162,8 @@ CETV4教育,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227192/.m3u8
 潮妈辣婆,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226107/.m3u8
 形体训练,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227314/.m3u8
 动作电影,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225879/.m3u8
-CHC影迷电影,http://[2001:250:5800:1005::155]:80/liverespath/bca6167afdef7fc773405c38e695b342c1d1eca0/index.m3u8
 CHC影迷电影,http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/chcgqdyHD/__op/default/__f/index.m3u8
+CHC影迷电影,http://[2001:250:5800:1005::155]:80/liverespath/bca6167afdef7fc773405c38e695b342c1d1eca0/index.m3u8
 CHC影迷电影,http://58.19.38.162:9901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC动作电影,http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/chcdzdyHD/__op/default/__f/index.m3u8
 CHC动作电影,http://[2001:250:5800:1005::155]:80/liverespath/e0096742f0c5be4c5225cf3c7ab1077177bec05f/index.m3u8
