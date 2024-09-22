@@ -145,7 +145,11 @@ CGTN法国,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227220/.m3u8
 潮妈辣婆,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226107/.m3u8
 形体训练,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227314/.m3u8
 CHC影迷电影,http://[2001:250:5800:1005::155]:80/liverespath/bca6167afdef7fc773405c38e695b342c1d1eca0/index.m3u8
+CHC影迷电影,http://58.19.38.162:9901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC动作电影,http://[2001:250:5800:1005::155]:80/liverespath/e0096742f0c5be4c5225cf3c7ab1077177bec05f/index.m3u8
+CHC动作电影,http://[2001:250:5800:1005::155]:80/liverespath/e0096742f0c5be4c5225cf3c7ab1077177bec05f/index.m3u8
+CHC家庭影院,http://111.165.222.109:8000/udp/225.1.1.213:5002
+CHC家庭影院,http://xuys.top:8888/udp/225.1.1.220:5002
 CHC家庭影院,http://[2001:250:5800:1005::155]:80/liverespath/449d51febadb152094085d373b9af94a6ac5f1dd/index.m3u8
 动作电影,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225879/.m3u8
 古装剧场,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225880/.m3u8
