@@ -122,6 +122,9 @@ CGTN法国,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227220/.m3u8
 兵团卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227168/.m3u8
 内蒙古卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227244/.m3u8
 内蒙古卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225846/.m3u8
+凤凰卫视,http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8
+凤凰卫视,http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8
+凤凰本港台,http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8
 
 福建地方台,#genre#
 荆州垄上,http://jingzhou-live21.cjyun.org/10085/s10085-jingzhou-tv03.m3u8?auth_key=1735660799-0-0-73625822ff2c77aefa1589e94281edad
