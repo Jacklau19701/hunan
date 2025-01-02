@@ -155,6 +155,7 @@ CGTN英文,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225822/.m3u8
 剧场,#genre#
 功夫武侠,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227327/.m3u8
 古装电视剧,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227478/.m3u8
+黑莓电影,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227448/.m3u8
 古装剧场,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227307/.m3u8
 家庭剧场,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227457/.m3u8
 精品大剧,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227315/.m3u8
@@ -172,7 +173,6 @@ CETV1,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227067/.m3u8
 CETV1,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227323/.m3u8
 CETV2,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227206/.m3u8
 CETV4,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227192/.m3u8
-黑莓电影,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227448/.m3u8
 黑莓动画,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227303/.m3u8
 嘉佳卡通,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227230/.m3u8
 金鹰卡通,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227018/.m3u8
