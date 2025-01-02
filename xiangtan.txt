@@ -124,7 +124,6 @@ CGTN法国,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227220/.m3u8
 内蒙古卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225846/.m3u8
 
 福建地方台,#genre#
-荆州垄上,http://jingzhou-live21.cjyun.org/10085/s10085-jingzhou-tv03.m3u8?auth_key=1735660799-0-0-73625822ff2c77aefa1589e94281edad
 厦门一台,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226814/.m3u8
 厦门二台,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226777/.m3u8
 厦门三台,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226760/.m3u8
