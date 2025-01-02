@@ -207,7 +207,6 @@ CETV4,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227192/.m3u8
 大波电竞,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227252/.m3u8
 大波赛事,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227331/.m3u8
 
-
 历年春晚,#genre#
 春晚83,http://txmov2.a.kwimgs.com/bs3/video-hls/5207287136834522947_hlshd15.m3u8
 春晚84,https://txmov2.a.kwimgs.com/bs3/video-hls/5229242184269609742_hlshd15.m3u8
