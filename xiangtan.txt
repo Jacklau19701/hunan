@@ -291,7 +291,6 @@ CETV4,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227192/.m3u8
 春晚23总台,https://vod12.xmyysw.com/20230122/JgWBWCQH/index.m3u8
 
 直播中国,#genre#
-北京-昌平居庸关长城,https://gcalic.v.myalicdn.com/gc/syns01_1/index.m3u8
 北京-密云古北水镇,https://gcalic.v.myalicdn.com/gc/dlst03_1/index.m3u8
 北京-怀柔黄花城水长城,https://gcalic.v.myalicdn.com/gc/wgw01_1/index.m3u8
 北京-怀柔黄花城水长城2,https://gcalic.v.myalicdn.com/gc/wgw03_1/index.m3u8
