@@ -201,21 +201,11 @@ CETV4,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227192/.m3u8
 快乐垂钓,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226940/.m3u8
 综艺2,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227452/.m3u8
 怡伴健康,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227460/.m3u8
-优购物2,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227469/.m3u8
+金牌综艺,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227469/.m3u8
 多屏直播,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226664/.m3u8
 多屏直播2,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226866/.m3u8
 大波电竞,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227252/.m3u8
 大波赛事,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227331/.m3u8
-求索动物,http://[2409:8087:5e01:24::8]:6610/000000001000/2000000004000000009/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000009&IASHttpSessionId=OTT19019320240419154124000281
-求索动物,http://[2409:8087:5e08:24::17]:6610/000000001000/2000000004000000009/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000009&IASHttpSessionId=OTT19019320240419154124000281
-求索纪录,http://[2409:8087:5e01:24::8]:6610/000000001000/2000000004000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000010&IASHttpSessionId=OTT19019320240419154124000281
-求索纪录,http://[2409:8087:5e08:24::17]:6610/000000001000/2000000004000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000010&IASHttpSessionId=OTT19019320240419154124000281
-求索科学,http://[2409:8087:5e08:24::17]:6610/000000001000/2000000004000000011/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000011&IASHttpSessionId=OTT19019320240419154124000281
-求索科学,http://[2409:8087:5e01:24::8]:6610/000000001000/2000000004000000011/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000011&IASHttpSessionId=OTT19019320240419154124000281
-求索生活,http://[2409:8087:5e01:24::8]:6610/000000001000/2000000004000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000008&IASHttpSessionId=OTT19019320240419154124000281
-求索生活,http://[2409:8087:5e08:24::17]:6610/000000001000/2000000004000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000008&IASHttpSessionId=OTT19019320240419154124000281
-法治天地,http://[2409:8087:5e08:24::17]:6610/000000001000/2000000002000000014/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000014&IASHttpSessionId=OTT19019320240419154124000281
-金色学堂,http://[2409:8087:5e08:24::17]:6610/000000001000/2000000002000000061/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000061&IASHttpSessionId=OTT19019320240419154124000281
 
 历年春晚,#genre#
 春晚83,http://txmov2.a.kwimgs.com/bs3/video-hls/5207287136834522947_hlshd15.m3u8
