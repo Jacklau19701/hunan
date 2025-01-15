@@ -154,8 +154,7 @@ CGTN英文,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225822/.m3u8
 咪咕视频,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227158/.m3u8
 
 影视频道,#genre#
-动作电影,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
-动作电影,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
+动作电影,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225879/.m3u8
 古装电视剧,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227478/.m3u8
 黑莓电影,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227448/.m3u8
 古装剧场,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227307/.m3u8
@@ -201,7 +200,6 @@ CETV4,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227192/.m3u8
 快乐垂钓,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226940/.m3u8
 综艺2,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227452/.m3u8
 怡伴健康,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227460/.m3u8
-优购物,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225879/.m3u8
 优购物2,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227469/.m3u8
 多屏直播,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226664/.m3u8
 多屏直播2,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226866/.m3u8
