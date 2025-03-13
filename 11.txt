@@ -154,6 +154,14 @@ CGTN英文,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225822/.m3u8
 咪咕视频,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227158/.m3u8
 
 剧场,#genre#
+CHC动作电影,http://218.15.183.23:9901/tsfile/live/23039_1.m3u8
+CHC动作电影,http://183.237.95.108:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=0&authid=0
+CHC动作电影,http://120.198.101.106:9901/tsfile/live/1052_1.m3u8?key=txiptv
+CHC动作电影,http://180.213.174.225:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
+CHC影迷电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8
+CHC影迷电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
+CHC影迷电影,http://120.198.101.106:9901/tsfile/live/1053_1.m3u8?key=txiptv
+CHC影迷电影,http://120.198.95.220:9901/tsfile/live/1038_1.m3u8?key=txiptv
 动作电影,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225879/.m3u8
 功夫武侠,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227327/.m3u8
 古装电视剧,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227478/.m3u8
