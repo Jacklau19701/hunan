@@ -104,7 +104,16 @@ CCTV 4K 超清,http://e2.woc.iiiya.cn:28888/rtp/239.61.4.202:1025
 厦门1,http://e2.woc.iiiya.cn:28888/rtp/239.61.5.99:1025
 凤凰中文,http://e2.woc.iiiya.cn:28888/rtp/239.61.5.48:1025
 凤凰资讯,http://e2.woc.iiiya.cn:28888/rtp/239.61.5.47:1025
+CHC家庭电影,http://218.15.183.23:9901/tsfile/live/23038_1.m3u8
+CHC家庭电影,http://183.237.95.108:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&authid=0
 CHC动作电影,http://e2.woc.iiiya.cn:28888/rtp/239.61.4.169:1025
+CHC动作电影,http://218.15.183.23:9901/tsfile/live/23039_1.m3u8
+CHC动作电影,http://183.237.95.108:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=0&authid=0
+CHC动作电影,http://e2.woc.iiiya.cn:28888/rtp/239.61.4.169:1025
+CHC影迷电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8
+CHC影迷电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
+CHC影迷电影,http://120.198.101.106:9901/tsfile/live/1053_1.m3u8?key=txiptv
+CHC影迷电影,http://120.198.95.220:9901/tsfile/live/1038_1.m3u8?key=txiptv
 
 精彩,#genre#
 精彩广场舞,http://e2.woc.iiiya.cn:28888/rtp/239.61.4.211:1025
