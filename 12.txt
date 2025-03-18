@@ -102,8 +102,8 @@ CCTV 4K 超清,http://e2.woc.iiiya.cn:28888/rtp/239.61.4.202:1025
 海博TV,http://e2.woc.iiiya.cn:28888/rtp/239.61.5.155:1025
 泉州电视1,http://e2.woc.iiiya.cn:28888/rtp/239.61.5.98:1025
 厦门1,http://e2.woc.iiiya.cn:28888/rtp/239.61.5.99:1025
-凤凰中文,http://e2.woc.iiiya.cn:28888/rtp/239.61.5.48:1025
-凤凰资讯,http://e2.woc.iiiya.cn:28888/rtp/239.61.5.47:1025
+凤凰资讯,http://e2.woc.iiiya.cn:28888/rtp/239.61.5.48:1025
+凤凰中文,http://e2.woc.iiiya.cn:28888/rtp/239.61.5.47:1025
 CHC家庭影院,http://120.198.101.106:9901/tsfile/live/1051_1.m3u8?key=txiptv
 CHC动作影院,http://120.198.101.106:9901/tsfile/live/1052_1.m3u8?key=txiptv
 CHC影迷电影,http://120.198.101.106:9901/tsfile/live/1053_1.m3u8?key=txiptv
