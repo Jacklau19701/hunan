@@ -82,6 +82,7 @@ CGTN英文,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225822/.m3u8
 天津卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227205/.m3u8
 广东卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225824/.m3u8
 广东卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227164/.m3u8
+广东卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227391/.m3u8
 安徽卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227178/.m3u8
 安徽卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225844/.m3u8
 山东卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227236/.m3u8
@@ -192,6 +193,7 @@ CETV4,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227192/.m3u8
 哈哈炫动,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227335/.m3u8
 卡酷动漫,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227456/.m3u8
 新动漫,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227498/.m3u8
+优优宝贝,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227367/.m3u8
 
 精彩,#genre#
 潮妈辣婆,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227311/.m3u8
