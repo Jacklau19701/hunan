@@ -21,6 +21,7 @@ CCTV2,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225923/.m3u8
 CCTV3,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227256/.m3u8
 CCTV3,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227445/.m3u8
 CCTV4,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225802/.m3u8
+CCTV4,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227510/.m3u8
 CCTV4,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227225/.m3u8
 CCTV4,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227441/.m3u8
 CCTV5,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227229/.m3u8
@@ -77,6 +78,7 @@ CGTN英文,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225822/.m3u8
 湖南卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225827/.m3u8
 湖南卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227232/.m3u8
 深圳卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225848/.m3u8
+深圳卫视4k,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227489/.m3u8
 深圳卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227242/.m3u8
 天津卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225830/.m3u8
 天津卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227205/.m3u8
@@ -171,10 +173,15 @@ CHC 家庭影院,http://211.141.56.169:9901/tsfile/live/1010_1.m3u8?key=txiptv&p
 精品大剧,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227315/.m3u8
 爱情喜剧,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227462/.m3u8
 军旅剧场,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227465/.m3u8
+烽烟剧场,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227461/.m3u8
+爱情喜剧,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227462/.m3u8
+谍战大剧,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227469/.m3u8
 惊悚悬疑,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227466/.m3u8
 中国功夫,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227473/.m3u8
 金鹰纪实,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226937/.m3u8
 北京科技,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225944/.m3u8
+环球奇观,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227490/.m3u8
+生态环境,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227494/.m3u8
 
 教育卡通台,#genre#
 教育台,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227202/.m3u8
