@@ -20,6 +20,7 @@ CCTV2,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225800/.m3u8
 CCTV2,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225923/.m3u8
 CCTV3,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227256/.m3u8
 CCTV3,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227445/.m3u8
+CCTV4,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227510/.m3u8
 CCTV4,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225802/.m3u8
 CCTV4,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227225/.m3u8
 CCTV4,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227441/.m3u8
