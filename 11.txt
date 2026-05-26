@@ -129,7 +129,14 @@ CGTN 葡萄牙,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227224/.m3u8
 福建新闻,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227180/.m3u8
 福建文体,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227190/.m3u8
 福建少儿,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227194/.m3u8
-福建教育,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227202/.m3u8
+福建教育Channel [V],http://116.77.33.98:44330/tsfile/live/1010_1.m3u8?key=txiptv&playlive=0&authid=0
+翡翠台,http://116.77.33.98:44330/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
+明珠台,http://116.77.33.98:44330/tsfile/live/1009_1.m3u8?key=txiptv&playlive=0&authid=0
+凤凰卫视中文台,http://116.77.33.98:44330/tsfile/live/1011_1.m3u8?key=txiptv&playlive=0&authid=0,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227202/.m3u8
+天威TVG,http://116.77.33.98:44330/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0
+星空卫视,http://116.77.33.98:44330/tsfile/live/1012_1.m3u8?key=txiptv&playlive=0&authid=0
+旅游卫视,http://116.77.33.98:44330/tsfile/live/0114_1.m3u8?key=txiptv&playlive=0&authid=0
+重温经典,http://116.77.33.98:44330/tsfile/live/1015_1.m3u8?key=txiptv&playlive=0&authid=0
 
 剧场,#genre#
 北京台科教纪实,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225944/.m3u8
