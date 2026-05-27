@@ -120,6 +120,15 @@ CGTN 葡萄牙,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227224/.m3u8
 西藏卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227217/.m3u8
 康巴卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225856/.m3u8
 
+贵州地方,#genre#
+黔东南综合,https://p8.vzan.com/slowlive/318019210178764204/live.m3u8?zbid=11861337&tpid=885344195
+凯里频道,https://p8.vzan.com/slowlive/298070663345038269/live.m3u8?zbid=11861337&tpid=1182538895
+贵州2,https://9bwaz8y2.gzstv.com/live/CH02_lo.m3u8?txSecret=100434766b41cd8de3f915922de204b3&txTime=6A1696DC
+贵州3,https://9bwaz8y2.gzstv.com/live/CH03_lo.m3u8?txSecret=543dce316968d3bc9363f7e216c621e7&txTime=6A169C7C
+贵州4,https://9bwaz8y2.gzstv.com/live/CH04_lo.m3u8?txSecret=839a9b76bfebae04644cb6ba79fecbab&txTime=6A169CBD
+贵州5,https://9bwaz8y2.gzstv.com/live/CH05_lo.m3u8?txSecret=16197c577cf3b983ced4aaf7d4d9a7c0&txTime=6A169A8F
+贵州6,https://9bwaz8y2.gzstv.com/live/CH06_lo.m3u8?txSecret=8eb34056bd10d35e4672c07b17c07387&txTime=6A169D12
+
 福建地方,#genre#
 厦门电视1,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226814/.m3u8
 厦门电视2,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226777/.m3u8
@@ -130,7 +139,7 @@ CGTN 葡萄牙,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227224/.m3u8
 福建文体,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227190/.m3u8
 福建少儿,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227194/.m3u8
 福建教育,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227202/.m3u8
-https://9bwaz8y2.gzstv.com/live/CH02_lo.m3u8?txSecret=100434766b41cd8de3f915922de204b3&txTime=6A1696DC
+河北三农,https://tv.pull.hebtv.com/jishi/nongminpindao.m3u8?t=1779873666&k=2bb7e5811264ed78d61fbb614a01b7dd
 翡翠台,http://116.77.33.98:44330/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
 明珠台,http://116.77.33.98:44330/tsfile/live/1009_1.m3u8?key=txiptv&playlive=0&authid=0
 凤凰卫视中文台,http://116.77.33.98:44330/tsfile/live/1011_1.m3u8?key=txiptv&playlive=0&authid=0,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227202/.m3u8
