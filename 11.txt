@@ -129,7 +129,7 @@ CGTN 葡萄牙,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227224/.m3u8
 福建新闻,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227180/.m3u8
 福建文体,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227190/.m3u8
 福建少儿,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227194/.m3u8
-福建教育Channel [V],http://116.77.33.98:44330/tsfile/live/1010_1.m3u8?key=txiptv&playlive=0&authid=0
+福建教育,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227202/.m3u8
 https://9bwaz8y2.gzstv.com/live/CH02_lo.m3u8?txSecret=100434766b41cd8de3f915922de204b3&txTime=6A1696DC
 翡翠台,http://116.77.33.98:44330/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
 明珠台,http://116.77.33.98:44330/tsfile/live/1009_1.m3u8?key=txiptv&playlive=0&authid=0
