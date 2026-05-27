@@ -139,7 +139,9 @@ CGTN 葡萄牙,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227224/.m3u8
 福建文体,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227190/.m3u8
 福建少儿,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227194/.m3u8
 福建教育,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227202/.m3u8
+河北文旅,https://tv.pull.hebtv.com/zhibo/yingshijupindao.m3u8?t=1779875221&k=f545de78e5f9924f59fed1e259f6124c
 河北三农,https://tv.pull.hebtv.com/jishi/nongminpindao.m3u8?t=1779873666&k=2bb7e5811264ed78d61fbb614a01b7dd
+河北经济生活,https://tv.pull.hebtv.com/jishi/jingjishenghuo.m3u8?t=1779875299&k=1bc72bd5aef45f49a3a7331191e0a4a3
 翡翠台,http://116.77.33.98:44330/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
 明珠台,http://116.77.33.98:44330/tsfile/live/1009_1.m3u8?key=txiptv&playlive=0&authid=0
 凤凰卫视中文台,http://116.77.33.98:44330/tsfile/live/1011_1.m3u8?key=txiptv&playlive=0&authid=0,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227202/.m3u8
