@@ -123,19 +123,6 @@ CGTN 葡萄牙,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227224/.m3u8
 贵州地方,#genre#
 黔东南综合,https://p8.vzan.com/slowlive/318019210178764204/live.m3u8?zbid=11861337&tpid=885344195
 凯里频道,https://p8.vzan.com/slowlive/298070663345038269/live.m3u8?zbid=11861337&tpid=1182538895
-贵州2,https://9bwaz8y2.gzstv.com/live/CH02_lo.m3u8?txSecret=100434766b41cd8de3f915922de204b3&txTime=6A1696DC
-贵州3,https://9bwaz8y2.gzstv.com/live/CH03_lo.m3u8?txSecret=543dce316968d3bc9363f7e216c621e7&txTime=6A169C7C
-贵州4,https://9bwaz8y2.gzstv.com/live/CH04_lo.m3u8?txSecret=839a9b76bfebae04644cb6ba79fecbab&txTime=6A169CBD
-贵州5,https://9bwaz8y2.gzstv.com/live/CH05_lo.m3u8?txSecret=16197c577cf3b983ced4aaf7d4d9a7c0&txTime=6A169A8F
-贵州6,https://9bwaz8y2.gzstv.com/live/CH06_lo.m3u8?txSecret=8eb34056bd10d35e4672c07b17c07387&txTime=6A169D12
-广西影视,https://hlscdn.liangtv.cn/live/a84182dabc5147afbd3d90ddbb5a9404/d097f6c24c53463e897de496b32c7d2b-1.m3u8
-广西综艺旅游,https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6-1.m3u8
-广东珠江,https://tcdn.itouchtv.cn/live/gdzj.m3u8?t_token=d5b8fd3ee3720de5760d19ef7d6e5c5c-tm8F7MIOykD6pwqKzQ9o2SWCDo7%2FoAmfjTFmTIb08phWkLZFw9zYqOx5O4SKOzkclVDaaQsWHaeCGSaqFuRkzvUHlLBF3JDSbTyWPpCNZqrA%2FIrIhiEvBz5%2F6sJikWMww61AX7qr%2BM9ljvBxE%2FLlgAZNHPOSqP9nH5wmvuveg0VYEjxuCL3qW8UnRA9GrjX7abFH0HFZQD2euI8GPJlWmWvwi7txbdT7JFiKxO9Xw2Mf1n8ag%2F4dMmut3Ay1EKgs%2BnFEGJqXwqDVEsXEwfEjvlGmBAMr1wC4h1f88Yd%2BCxQRk6F30C25FdBhjFT30pdPoRDbF4lySJj%2BU6IOhOePIHT6vMLtp39pxaegYZgZ84w%3D
-广东新闻,https://tcdn.itouchtv.cn/live/xwpd.m3u8?t_token=0fa03e6bbcc73db0aa27df48814e547f-qHRtRm%2FR506xpv88nZ7DPH0MqSb%2F0pTcEo5dJxtO7p6fLT3f%2BDVV2%2FjqN%2FIN9peCmyBgL8MuUeZucodtZJ3ELX38u8A92go9X7CSa%2BMM6bqDTOYePD48%2BNCmYv36GK8VblwQUcel7i0ANeRxMHOhJyCH4oQQeC4OSdrXSB1kJyRqS6NdMH7oIQsZw2IJw9f7YcJ0BPRPxZgFaeOCoSz2FYdm4Tj6x6nN7SLJyU9jJMRjCg0vsy3CWlQiPwMIWBB4kqcaoKatESsEpcHobGmhUZG9T6NEs5DoHojr3ycdH17aogNliZxQUQO0ASHuC6Y4bQeZvMLhtjHtC7tiFo%2BNhCFMI1R6fht%2FbvZXuQIwR%2Bk%3D
-广东民生,https://tcdn.itouchtv.cn/live/gdgg.m3u8?t_token=a136276c563d5a1042d92edaeab91e74-avS7Kpw9HII9tyALOTA16RYqt8wT%2F8Rq0alGojDzMEU3lx9z5CvyONX4eginjrwb2FDyh1VXT0qy8rFjqEA1OssJLRivGL54N5R%2FHSf05bqPlazM7Y3QseAvNM1f0wPUZQ14GJgBKQxE8oLRuKBh3q7GU8aJXdswS3EFwIt3YLqFdvr43PQ8tqKjBexam8%2F93MHEeRZzAGJHBFVeLQK88UO%2BO0SFfXyiS8hF%2BwHZgOadyld%2FURyiC4X4BXQbDN5KtlEiO3n0yMz0br9aOtG8wdP%2BqQdKgRfi%2FIB7uioVmcQFxYmuBefg7JWao5iS21TplkrGBVH2mcXIJTKIaoV7pK1j7piAZ2gVZ6JtYXqQxFA%3D
-大亚湾卫视,https://tcdn.itouchtv.cn/live/nfws.m3u8?t_token=d03ce1aab5f80e50c51c70dd00f683e1-9TbzeHvF71uqJ1wVwi773Dp63NQ%2FIKQFBZzECXmaynTLQK8cykzPKt9838OPWWeo3O9FNsoOtwHIQjnE3MG8x66B2ag%2FeIxL48wLTeESBEjfoEQZFZNqh8qjw8liQEK0SVvYRVw6euvurpL%2B7CfWvn6L6fhxpBLbv7LZUCNBHqH7%2FVb2pj2D6m7xQ18qppLuQ0qqCqL9VFdZ4nOt75URbFkZ%2FlszNHPn2DuhY5M42V0x3SxJisdLrhiiMEAOdorXteItAeS06Hptg1meYs18tmDEzWOS3vHEIfDZ3NPMjuBcMRE0dmHIqMdgwCnwkHctFGfomFUygLvRm10QMtOhye4HVsy8tdzSNWicxp%2Bq3SA%3D
-广东影视,https://tcdn.itouchtv.cn/live/gdys.m3u8?t_token=a21d396bfa096f4d5f78cf04937f71e5-sKAnvfeyyLli13mxAtwqc9yJ%2BO52PVJeyWUIDB8IyApVuVsUvDy3F5t3l4Xfv1S%2FdIwJqhrGS1q5M8MVUH53uIo5vGGC0gFIe7Vker%2BKWjUW%2BYYvNzYcfNK1ke85Au2PEzEYAC%2B10Hm7q09mm6fQ9lSAXIeWMdS9sVwN%2BKEOo2NamiMvtX%2FXc8S8AeSAAyp1IURikzs%2Bkqxwj7gZeMO2TOtFqg74zvLVrNVFk%2Bo8h1XG9SISpFS9VMz0mCfFaPK8%2FVUjR%2BLob4xDwjsXx2BmekNbomiy%2FEwY99%2BxIyPy1OTxmoStJoRqbHjAq5Eubi3uJgWErbJWlHAVyY8F9fd4EKm3wcBxLzleRqm8ttWMTRw%3D
-广东台经典,https://tcdn.itouchtv.cn/live/lizhi.m3u8?t_token=de167f06509ae675e7e7bd40ba26b789-aAJcKxPg2Tnv%2Fa3Jo5HPymmeGbChIdGaddDMzg4QrMs2W06P4cEGFq%2F1HI0jDfUVXjvzGLFMGlD5pGaxblZO87zjakGUWscOw6ocQTbxyugGRQdvQl84ldQmoK%2FEa%2BpOHMZpMwnyqLVgsJQ%2B5tNsWDDRygOYgmgH62hdvQbfa%2FbrYlk1sJGnIq%2Bp2XMcJ2xWM5QwskISjzi3LEZSYauEEasNUklfs91WW84wvD%2FmMI2OLKPNLY2DeU%2F3SCsLXOaVjtd82DDomBEgYmVNJWQya9S0ctq99k8H4sBiYx1mdoeOSiBh103e%2BWeNILdM7XaOoLEDiu9%2FUYNK6ASofIYL1g%3D%3D
 
 福建地方,#genre#
 厦门电视1,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226814/.m3u8
@@ -155,19 +142,6 @@ CGTN 葡萄牙,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227224/.m3u8
 星空卫视,http://116.77.33.98:44330/tsfile/live/1012_1.m3u8?key=txiptv&playlive=0&authid=0
 旅游卫视,http://116.77.33.98:44330/tsfile/live/0114_1.m3u8?key=txiptv&playlive=0&authid=0
 重温经典,http://116.77.33.98:44330/tsfile/live/1015_1.m3u8?key=txiptv&playlive=0&authid=0
-
-河北浙江,#genre#
-河北少儿科教,https://tv.pull.hebtv.com/jishi/shaoerkejiao.m3u8?t=1779875400&k=bbca7be45cf885e5eea534851c549dca
-河北文旅,https://tv.pull.hebtv.com/zhibo/yingshijupindao.m3u8?t=1779875221&k=f545de78e5f9924f59fed1e259f6124c
-河北三农,https://tv.pull.hebtv.com/jishi/nongminpindao.m3u8?t=1779873666&k=2bb7e5811264ed78d61fbb614a01b7dd
-河北经济生活,https://tv.pull.hebtv.com/jishi/jingjishenghuo.m3u8?t=1779875299&k=1bc72bd5aef45f49a3a7331191e0a4a3
-浙江经济生活,https://zwebl02.cztv.com/live/channel03720Pnew.m3u8?auth_key=1779868331-25cf4c1959214b74a951bec78fc25998-0-2e6f448b4b713b2cda927c947bd3bd57
-浙江科教影视,https://zwebl02.cztv.com/live/channel04720Pnew.m3u8?auth_key=1779868399-25cf4c1959214b74a951bec78fc25998-0-6e71437438738f6b81b1a42cbbb9c974
-浙江民生休闲,https://zwebl02.cztv.com/live/channel06720Pnew.m3u8?auth_key=1779868470-25cf4c1959214b74a951bec78fc25998-0-5e4fa47e38afc2d193711ad8860702cb
-浙江新闻,https://zwebl06.cztv.com/live/channel07720Pnew.m3u8?auth_key=1779868537-4dec857b8a394837bc43464e1bd32078-0-bb83caca9c77eccbb1bf2f70bfd098c5
-浙江少儿,https://zwebl02.cztv.com/live/channel08720Pnew.m3u8?auth_key=1779868580-25cf4c1959214b74a951bec78fc25998-0-c25c36779a71c799a87c9e92a61f7578
-浙江国际,https://zwebl02.cztv.com/live/channel10720Pnew.m3u8?auth_key=1779868620-25cf4c1959214b74a951bec78fc25998-0-20de5f0286e4445328abeaf3294bb23e
-浙江记录,https://zwebl06.cztv.com/live/channel12720Pnew.m3u8?auth_key=1779868658-4dec857b8a394837bc43464e1bd32078-0-b0360442b1100f11f13db764e92f95d4
 
 剧场,#genre#
 北京台科教纪实,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225944/.m3u8
